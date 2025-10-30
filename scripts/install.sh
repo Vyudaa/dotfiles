@@ -18,3 +18,6 @@ yay -S zen-browser-bin bitwarden-bin
 
 -- Clipboard Utilities
 sudo pacman -S wl-clipboard
+
+-- Rust
+sudo pacman -S rustup
