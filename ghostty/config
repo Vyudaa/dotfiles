@@ -1,0 +1,11 @@
+theme = Gruvbox Material Dark
+font-family = FiraCode
+font-size = 14
+window-padding-balance = true
+
+copy-on-select = clipboard
+clipboard-trim-trailing-spaces = true
+
+# Keybindings
+keybind=ctrl+c=copy_to_clipboard
+keybind=ctrl+v=paste_from_clipboard
