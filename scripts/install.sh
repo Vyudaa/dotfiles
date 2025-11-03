@@ -28,7 +28,7 @@ sudo pacman -S rustup
 sudo pacman -S ttf-firacode-nerd
 
 -- Hyprland Ecosystem
-sudo pacman -S hyprpaper
+sudo pacman -S hyprpaper hyprsunset hyprcursor
 
 -- Waybar
 sudo pacman -S waybar
@@ -38,3 +38,6 @@ sudo pacman -S lua-language-server
 
 -- Menu
 sudo pacman -S rofi
+
+-- Bluetooth
+sudo pacman -S bluez bluez-utils
