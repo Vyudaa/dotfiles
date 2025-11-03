@@ -3,6 +3,8 @@ local set = vim.opt
 set.number = true
 set.relativenumber = true
 set.undofile = true
+set.undodir = "~/.local/state/nvim/undo"
+set.swapfile = false
 
 set.expandtab = true
 set.tabstop = 4
