@@ -1,4 +1,3 @@
-
 -- System Packages
 sudo pacman -S git base-devel neovim
 
@@ -16,8 +15,26 @@ sh <(curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install) --daemon
 -- Browser, Password Manager
 yay -S zen-browser-bin bitwarden-bin
 
+-- Terminal
+sudo pacman -S ghostty
+
 -- Clipboard Utilities
 sudo pacman -S wl-clipboard
 
 -- Rust
 sudo pacman -S rustup
+
+-- Fonts
+sudo pacman -S ttf-firacode-nerd
+
+-- Hyprland Ecosystem
+sudo pacman -S hyprpaper
+
+-- Waybar
+sudo pacman -S waybar
+
+-- Language-Servers
+sudo pacman -S lua-language-server
+
+-- Menu
+sudo pacman -S rofi

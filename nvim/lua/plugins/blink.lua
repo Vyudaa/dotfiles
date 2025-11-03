@@ -1,4 +1,5 @@
 return {
+
 	"saghen/blink.nvim",
 	build = "cargo build --release", -- for delimiters
 	keys = {

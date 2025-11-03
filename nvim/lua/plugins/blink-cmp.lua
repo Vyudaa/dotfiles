@@ -26,8 +26,7 @@ return {
 		--
 		-- See :h blink-cmp-config-keymap for defining your own keymap
 		keymap = {
-			preset = "default",
-			["<C-CR>"] = { "accept" },
+			preset = "enter",
 		},
 
 		appearance = {
@@ -35,7 +34,6 @@ return {
 			-- Adjusts spacing to ensure icons are aligned
 			nerd_font_variant = "normal",
 		},
-
 		-- (Default) Only show the documentation popup when manually triggered
 		completion = {
 			documentation = {

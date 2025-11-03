@@ -6,11 +6,16 @@ Develpoment Level packages are managed by nixpks
 
 TODO:
 
-[ ] neovim
-[ ] pacman
+[ x ] neovim
+[ x ] pacman
 [ ] zen-browser
 [ ] hyprland
 [ ] waybar
 [ ] custom all-in-one menu
 [ ] Bluetooth
-[ ] ghostty
+[ x ] ghostty
+[ ] shell
+[ ] tmux
+[ ] custom theme switcher
+[ ] notification manager
+
