@@ -36,6 +36,9 @@ sudo pacman -S waybar
 -- Language-Servers
 sudo pacman -S lua-language-server
 
+-- Formatters
+sudo pacman -s stylua 
+
 -- Menu
 sudo pacman -S rofi
 

@@ -24,8 +24,6 @@ return {
 			workspaces = {
 				library = {
 					vim.env.RUNTIME,
-					vim.fn.stdpath("runtime") .. "/lua",
-					vim.fn.stdpath("config") .. "/lua",
 				},
 				checkThirdParty = false,
 			},
