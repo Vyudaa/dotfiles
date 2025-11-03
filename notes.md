@@ -10,7 +10,8 @@ TODO:
 [ x ] pacman
 [ ] zen-browser
 [ ] hyprland
-[ ] waybar
+    [ ] keybinds
+[x] waybar
 [ ] custom all-in-one menu
 [ ] Bluetooth
 [ x ] ghostty

@@ -3,7 +3,7 @@ local set = vim.opt
 set.number = true
 set.relativenumber = true
 set.undofile = true
-set.undodir = "~/.local/state/nvim/undo"
+set.undodir = os.getenv("HOME") .. ".vim/undo"
 set.swapfile = false
 
 set.expandtab = true
