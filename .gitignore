@@ -1,0 +1,11 @@
+Bitwarden/
+dconf/
+go/
+gtk-3.0/
+pulse/
+rofi/
+rofi.vyuda/
+yay/
+dolphinrc
+trashrc
+
