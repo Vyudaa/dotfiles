@@ -37,10 +37,13 @@ sudo pacman -S waybar
 sudo pacman -S lua-language-server
 
 -- Formatters
-sudo pacman -s stylua 
+sudo pacman -S stylua 
 
 -- Menu
 sudo pacman -S rofi
 
 -- Bluetooth
 sudo pacman -S bluez bluez-utils
+
+-- Notifications
+sudo pacman -S mako

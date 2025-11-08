@@ -10,13 +10,15 @@ TODO:
 [ x ] pacman
 [ ] zen-browser
 [ ] hyprland
-    [ ] keybinds
+[ ] keybinds
 [x] waybar
 [ ] custom all-in-one menu
 [ ] Bluetooth
 [ x ] ghostty
-[ ] shell
+[ x ] shell
 [ ] tmux
 [ ] custom theme switcher
-[ ] notification manager
+[ x ] notification manager
+[ ] discord
+[ ] steam
 

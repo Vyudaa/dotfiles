@@ -1,0 +1,14 @@
+max-history=10
+sort=-time
+font=FiraCode 10
+
+
+background-color=#282828FF
+text-color=#DDC7A1
+border-color=#EA6962
+border-radius=5
+
+width=250
+height=100
+padding=10
+
