@@ -1,7 +1,6 @@
 -- System Packages
 sudo pacman -S git base-devel neovim
 
-
 -- Install yay
 git clone https://aur.archlinux.org/yay.git
 cd yay

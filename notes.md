@@ -6,11 +6,23 @@ Develpoment Level packages are managed by nixpks
 
 TODO:
 
+
+Install Script:
+
+[ ] install yay
+[ ] pacman.txt
+[ ] yay.txt
+[ ] install all pacman packages
+[ ] install all yay packages
+
+Update System Script:
+
+
 [ x ] neovim
 [ x ] pacman
-[ ] zen-browser
-[ ] hyprland
-[ ] keybinds
+[ x ] zen-browser
+[ x ] hyprland
+[ x ] keybinds
 [x] waybar
 [ ] custom all-in-one menu
 [ ] Bluetooth
@@ -20,5 +32,8 @@ TODO:
 [ ] custom theme switcher
 [ x ] notification manager
 [ ] discord
-[ ] steam
+[ x ] steam
+[ ] custom applications
+
+
 

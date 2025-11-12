@@ -1,0 +1,32 @@
+
+# Base
+git
+base-devel
+curl
+wget
+zsh
+
+# Hyprland
+hyprland
+waybar
+hyprpaper
+hyprsunset
+hyprcursor
+ttf-firacode-nerd
+
+# development
+neovim
+tmux
+
+# Wayland tools
+wl-clipboard
+rofi
+
+# Audio
+
+# Bluetooth
+bluez
+bluez-utils
+
+
+

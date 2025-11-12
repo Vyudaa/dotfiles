@@ -8,7 +8,7 @@
 		"tooltip": false,
 		"scroll-step": 5,
 		"format": "{icon} {volume}%",
-		"format-muted": "{icon} {volume}%",
+		"format-muted": " ",
 		"on-click":"pactl set-sink-mute @DEFAULT_SINK@ toggle",
 		"format-icons": {
 			"default": ["", "", ""]
@@ -22,10 +22,10 @@
 
 
     "disk": {
-        "format": " {percentage_free}%"
+        "format": "  {percentage_free}%"
     },
     "cpu": {
-        "format": " {usage}%"
+        "format": "  {usage}%"
     },
 
   "hyprland/workspaces": {
